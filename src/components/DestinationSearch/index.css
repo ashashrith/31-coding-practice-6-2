@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.container {
+  height: 30vh;
+  width: 30vh;
+}
+
+.img {
+  height: 25vh;
+  width: 30vh;
+  background-size: cover;
+}
+
+.name {
+  font-size: 12px;
+  font-family: 'open sans';
+  color: #000000;
+}
